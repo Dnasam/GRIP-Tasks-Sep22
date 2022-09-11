@@ -11,3 +11,9 @@ This is one of the task given to us under GRIP program by The Sparks Foundation
 
 ● Dataset : http://bit.ly/w-data
 
+
+# **Task-2**
+# Prediction using Unsupervised ML
+● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+
+● Dataset : https://bit.ly/3kXTdox
